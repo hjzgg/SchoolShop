@@ -1,0 +1,26 @@
+.tablelist th a {
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+}
+
+.tablelist th img {
+	display: none;
+}
+
+.tablelist th img.up {
+	display: inline;
+}
+
+.tablelist th img.down {
+	display: inline;
+}
+
+.tablelist td input.chg_input {
+	margin: 0px;
+	padding: 0px;
+	/*border-style: none;
+	background: #EAF5FF;*/
+	text-align: center;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
